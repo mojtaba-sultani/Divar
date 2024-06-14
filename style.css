@@ -18,9 +18,6 @@
 .mb-6{
     margin-bottom:6rem !important;
 }
-.overflow-y-scroll::-webkit-scrollbar{
-    width:0;
-}
 .card {
     cursor: pointer;
 }
