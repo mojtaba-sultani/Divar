@@ -24,3 +24,8 @@
 .card {
     cursor: pointer;
 }
+.form-control:focus{
+    border-color:transparent !important;
+    border: white !important;
+    box-shadow: 0 0 0 0 !important;
+}
