@@ -22,6 +22,9 @@ nav button{
     background-color: #bb2d3b !important;
     border-color:#bb2d3b;
 }
+.text-13{
+    font-size:0.85rem;
+}
 .card {
     cursor: pointer;
 }
