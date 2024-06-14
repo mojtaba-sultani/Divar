@@ -18,6 +18,10 @@
 .mb-6{
     margin-bottom:6rem !important;
 }
+nav button{
+    background-color: #bb2d3b !important;
+    border-color:#bb2d3b;
+}
 .card {
     cursor: pointer;
 }
